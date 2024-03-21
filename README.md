@@ -1,7 +1,7 @@
 # Diablo4-AHKv2-Overlay
-*Based on this reddit [post](https://www.reddit.com/r/ultrawidemasterrace/comments/142tdxh/diablo_iv_set_up_as_blizzard_does_not_support_329/) aimed at addressing "super ultra-wide" aspect ratios for Diablo 4. I wasn't able to get that version working so I made my own for demonstrative purposes only*
+*Based on this reddit [post](https://www.reddit.com/r/ultrawidemasterrace/comments/142tdxh/diablo_iv_set_up_as_blizzard_does_not_support_329/) aimed at addressing "super ultra-wide" aspect ratios for Diablo 4. I wasn't able to get that version working so I made my own for demonstrative purposes only.*
 
-Copies parts of the player HUD, based on user settings, and draws it on top of the game using [OnTopReplica](https://github.com/LorenzCK/OnTopReplica)
+Copies parts of the player HUD, based on user settings, and draws it on top of the game using [OnTopReplica](https://github.com/LorenzCK/OnTopReplica).
 <img src="https://github.com/Macco00/Diablo4-AHKv2-Overlay/assets/3450735/1ee1b118-69a3-45be-a221-841ad8623b2f" alt="gui" width="600"/>
 
 Diablo 4 doesn't support overly wide aspect ratios and leaves two black pillars if the maximum is exceeded. This project aims to utilize the unused area created by these black pillars by displaying the player's health and mana. Extra elements such as skills can also be drawn and configured to be closer to the player character.
